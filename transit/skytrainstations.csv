@@ -1,0 +1,53 @@
+﻿id,stop_name,stop_id1,stop_id2,line_number,mode_type
+9fd35c08-02df-44d5-970e-61334db4b8c9,VCC-CLARK STATION,0,0,millenium,train
+60141597-eaee-4ba5-8b9d-635a1c53b140,COMMERCIAL-BROADWAY STATION PLATFORM 3,50913,52102,millenium/expo/99,train/bus
+c1fe217a-4587-47ea-9e7f-70b5d1d0ad15,RENFREW STATION,0,0,millenium,train
+c5ac6113-0659-4805-9f2f-3004e433a37c,RUPERT STATION,0,0,millenium,train
+152550ab-7b77-478c-be56-549f9e45f099,WATERFRONT STATION,0,0,canada/expo,train/bus
+64c80d12-3eca-4052-8ee4-2e17aee97ddc,VANCOUVER CITY CENTRE STATION,0,0,canada,train
+4c58620a-ae87-4993-ac4b-4a0909556b63,YALETOWN-ROUNDHOUSE STATION,0,0,canada,train
+0a583bc6-9bac-4617-92f8-0b644d5b1e27,OLYMPIC VILLAGE STATION,0,0,canada,train
+71071db8-6329-4863-8ead-0fdb68dbfb2b,BROADWAY-CITY HALL STATION,58501,50875,canada/99,train/bus
+4a5107c7-da17-46dd-b496-a872bae2ead5,KING EDWARD STATION,0,0,canada,train
+500d782b-8ffb-491f-b4ff-73c65998ac68,OAKRIDGE-41ST AVENUE STATION,61281,60349,canada/R4,train/bus
+26c0e3e1-5451-4908-bf19-53bac2d321fb,LANGARA-49TH AVENUE STATION,0,0,canada,train
+936126d0-e60f-41f5-83c1-923771931c45,MARINE DRIVE STATION,0,0,canada,train
+c1ea1ae9-5b5b-4996-89e7-b3691c212ec7,BURRARD STATION,53312,53312,expo/R5,train/bus
+65eb0241-e113-41c1-b02e-86f50e549784,GRANVILLE STATION,0,0,expo,train
+cda8710a-d193-4bb4-82f7-398f6f321bd6,STADIUM-CHINATOWN STATION,0,0,expo,train
+8e780d31-f42e-4ca4-bef5-52cd790ecf9e,MAIN STREET-SCIENCE WORLD STATION,0,0,expo,train
+1e01f16a-81a9-4131-923b-b4e80cd8716a,NANAIMO STATION,0,0,expo,train
+febb8791-20e4-4c68-b70f-0df7f0dd938b,29TH AVENUE STATION,0,0,expo,train
+fcd4e655-add4-4499-9067-d82426403de8,JOYCE-COLLINGWOOD STATION,51787,51722,expo/R4,train/bus
+5e209451-6dd0-4eb3-b382-5045e22c36b5,UBC Exchange,60162,61935,R4/99,bus
+d1898636-2177-4e2e-aaad-82bd7682e7e5,E Broadway @ Clark Dr,50916,58499,99,bus
+d7baa980-2ebf-48c6-b33e-5d453474c9fe,E Broadway @ Fraser St,58613,58514,99,bus
+4fcec59a-21b3-4f97-b4f5-f1ca55f53495,E Broadway @ Scotia/Kingsway St,50850,50880,99,bus
+7333519a-5fd8-468e-b6a9-e1d77baec0c2,W Broadway @ Willow/Heather St,50926,52099,99,bus
+7dd1e05c-c95d-4467-b35c-9a9a19e30a5b,W Broadway @ Granville St,50540,60494,99,bus
+7ccc029b-589a-4266-a568-ab0fb922d98b,W Broadway @ Arbutus/Yew St,61453,61660,99,bus
+ad912002-97d3-4c38-9bce-14dc20713588,W Broadway @ Macdonald St,52095,50319,99,bus
+11a99c5f-92d2-4a89-9acb-d7d5c7aedcdc,Alma St @ W 10 Ave,50357,58037,99,bus
+7248410e-f250-4ff6-aaec-2d91ee2d0a7b,W 10 Ave @ Sasamat St,58023,50276,99,bus
+daa9d354-8564-4303-bb2c-e31e58ae4aa0,University Blvd @ Western Parkway/Allison Rd,60219,50268,99,bus
+481f32cc-63d3-4c6b-9c74-74a353275173,Joyce St @ Kingsway ,51178,51636,R4,bus
+4d66f0a8-d8d6-42d2-bd8f-8741eafab708,E 41 Ave @ Rupert St,51181,51128,R4,bus
+57d27932-8c25-44c8-a2a7-3abcc5c7db18,E 41 Ave @ Clarendon St,51067,51124,R4,bus
+4e8f4156-cfe4-459f-82df-a85e61d22194,E 41 Ave @ Victoria Dr,50702,51121,R4,bus
+2f3d3a7f-0f27-4e91-aa89-c0cdae086afe,E 41 Ave @ Knight St,50706,50649,R4,bus
+a3ff8c7a-8c41-44bb-8a8c-ed9996707cbf,E 41 Ave @ Fraser St,50711,61503,R4,bus
+e17c78ca-9a53-491b-a8de-3ea765ac7455,E 41 Ave @ Main St,50714,50253,R4,bus
+569dd16d-a35e-4cc5-b0e5-c7fd6b40e193,W 41 Ave @ Oak St,50195,50804,R4,bus
+de467067-afc3-4c80-bcd7-0e4005b172f0,W 41 Ave @ Granville St,50284,50199,R4,bus
+4054827a-7865-4366-9460-1f7284716fb0,W 41 Ave @ East Blvd,60385,60386,R4,bus
+5f6f019e-12d0-416e-a8f9-da2ac2ff71d7,W 41 Ave @ Carnarvon St,50294,50377,R4,bus
+2c9f3286-52aa-419e-9466-ba2df68a6c6c,Dunbar Loop @ Bay 7,51893,60393,R4,bus
+6c42dda1-eafd-41e4-906f-ea35e99acf82,W 16 Ave @ Wesbrook Mall,61042,51883,R4,bus
+d71893c8-0cdc-49c2-8f3a-24e4c84d8a6b,Wesbrook Mall @ Agronomy Rd,60384,60383,R4,bus
+6b64b5ec-431c-4e4a-b92c-90f3c3c55393,Kootenay Loop @ Bay 5,52717,58143,R5,bus
+31b69cbc-0692-49fd-bde4-21390c512187,E Hastings St @ Renfrew St ,50959,50951,R5,bus
+e9c18a64-498d-48b3-a6d8-6f4824cdcd02,E Hastings St @ Nanaimo St,50730,50947,R5,bus
+b378ffe5-c9d0-45b9-90a5-4ac65a22bbb6,E Hastings St @ Commercial Dr,50499,52714,R5,bus
+35bff1ee-3129-49cc-aac6-ed52d62aede3,E Hastings St @ Main St,53391,52713,R5,bus
+02a5e636-5475-419c-aede-8646fbf79b6f,W Hastings St @ Abbott St,53392,52712,R5,bus
+b83ef1cb-a5a1-490e-8e21-b1d7e454c6f7,W Hastings St @ Granville St,50978,51374,R5,bus

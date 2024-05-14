@@ -1,0 +1,96 @@
+﻿id,stop_name,stop_id,line_number,mode_type
+a19ab5c8-feec-49f7-b828-10ef45fb69ff,Phibbs Exchange @ Bay 2,54100,R2,bus
+8b77ab0b-b1c1-424f-a5ba-4c2ccb8c39d9,Cotton Rd @ Brooksbank Ave,53958,R2,bus
+0971e2c5-6caf-4fd7-af8b-a7097590a98f,E 3rd St @ Ridgeway Ave,54149,R2,bus
+821b8edf-e363-4c71-bccd-b2870b835c08,Lonsdale Ave @ W 3rd St,60380,R2,bus
+09194348-e197-480b-bbc6-8c40f2540a4a,Lonsdale Quay @ Bay 3,58724,R2,bus
+47652918-31e7-45f3-a77e-9d968487de42,Marine Dr @ Bewicke Ave,54378,R2,bus
+cc42420d-ac4e-4742-bb4e-2643fd200de0,Marine Dr @ Hamilton Ave,54382,R2,bus
+e5d446be-694f-4681-b15b-df7009cd9024,Marine Dr @ Pemberton Ave,54435,R2,bus
+3416e296-db7e-49e3-ae00-75f3199c6bb3,Marine Dr @ Capilano Rd,60376,R2,bus
+f85851f4-2e11-422b-99ae-12d00ac44bbf,Park Royal @ Bay 1,61772,R2,bus
+,,,,
+1793a951-2d02-48bc-9855-5760a32fa292,Guildford Exchange @ Bay 2,55131,R1,bus
+84b6b018-367a-450a-8e6e-2c1c540ec00e,104 Ave @ 148 St,55367,R1,bus
+d592fb94-a0d3-4178-a462-5a2fa3cf46f5,104 Ave @ 144 St,55369,R1,bus
+ae07bf04-4dd1-449e-aaff-66d3ad7c9831,104 Ave @ 140 St,55371,R1,bus
+fa54f892-f4a2-4fb0-97b5-7ed16886a7a2,104 Ave @ Whalley Blvd,55373,R1,bus
+5a57737b-160e-4b2f-af7c-30b6d1e68632,Surrey Central Station @ Bay 11,56406,R1,bus
+aafdb5ae-9f7a-477e-846f-b20b4708bffd,King George Station @ Bay 1,54996,R1,bus
+66cf5338-e251-4af1-b0cb-93016fa405f5,King George Blvd @ 96 Ave,54987,R1,bus
+ad9e3d5b-4875-4d93-abac-b329b4249309,King George Blvd @ 88 Ave,55445,R1,bus
+612a0643-47fb-478e-8e31-f25e59fea97f,King George Blvd @ 80 Ave,55450,R1,bus
+13568844-9b76-494f-8501-7042a3e2b12c,King George Blvd @ 76 Ave,55452,R1,bus
+c41b5678-52b7-4205-8f28-f5e301866fd6,Newton Exchange @ Bay 5,55456,R1,bus
+,,,,
+9f9a20cd-9a32-4074-a602-6a6082f659a9,Coquitlam Central Station @ Bay 7,53170,R3,bus
+23066ac9-46f5-448a-b9a0-49e3ab91e7b5,Lougheed Hwy @ Westwood St,53022,R3,bus
+c987e2a4-f433-43cf-968d-a67e5a6752b8,Lougheed Hwy @ Shaughnessy St,53786,R3,bus
+c87bfc52-4541-4900-a51e-efdd824218ea,Lougheed Hwy @ Ottawa St,57573,R3,bus
+6b35cc0e-7c5d-4c18-b6bf-39ff9c092f5b,Lougheed Hwy @ Harris Rd,61304,R3,bus
+217c0b3e-2162-41e9-9d6a-1397a9ea2161,Lougheed Hwy @ 203 St,60372,R3,bus
+ff8b10ca-a932-4d74-b956-6b303e1489ca,Lougheed Hwy @ Laity St,60370,R3,bus
+45f19d02-7a6e-4e22-9aed-9c4c7f88f062,Haney Place @ Bay 1,61064,R3,bus
+,,,,
+b042a3bb-e536-49ef-80ef-308d92704282,UBC Exchange @ Bay 4,60162,R4,bus
+f446c210-d027-4932-9478-0c30ee419023,Wesbrook Mall @ Agronomy Rd,60383,R4,bus
+5085c892-5a55-4367-8ccf-7c302af5f48d,W 16 Ave @ Wesbrook Mall,51883,R4,bus
+27d7938e-6e8d-4c28-866c-e530b65d63a7,Dunbar Loop @ Bay 7,60393,R4,bus
+433cb040-92c2-4762-bbcf-24fe60d619a1,W 41 Ave @ Carnarvon St,50377,R4,bus
+583272e5-2d9d-443b-8bab-e4d85d7e039c,W 41 Ave @ East Blvd,60386,R4,bus
+ef9b8157-5cc3-49aa-a9d3-ae252da7f260,W 41 Ave @ Granville St,50199,R4,bus
+3af068ce-a9b8-47d0-b688-b9c61a1ca589,W 41 Ave @ Oak St,50804,R4,bus
+662e0ddb-ea75-4526-a6a1-38663f2f222f,W 41 Ave @ Cambie St,60349,R4,bus
+1385d32f-f22d-472c-bd5d-6c975241c709,E 41 Ave @ Main St,50253,R4,bus
+22faf7f4-7724-4de7-8380-bd4ed922a8e3,E 41 Ave @ Fraser St,61503,R4,bus
+3660ceb3-c334-454c-8cd4-ddb1f9f2debe,E 41 Ave @ Knight St,50649,R4,bus
+30865b1b-0135-4670-83b6-075d647e543c,E 41 Ave @ Victoria Dr,51121,R4,bus
+5f60c125-b099-458c-a7c7-925d6c480b4b,E 41 Ave @ Clarendon St,51124,R4,bus
+a695c130-30be-4ca3-85ef-2e98eac2d1ce,E 41 Ave @ Rupert St,51128,R4,bus
+ce805ea7-506b-4727-9e43-848bc23b9a36,Joyce St @ Kingsway ,51636,R4,bus
+7c419f58-6e0f-4533-bcf5-41e65947ff1a,Joyce St @ Bay 1 Unload Only ,51722,R4,bus
+,,,,
+71a72452-d9bb-42a9-9058-8a8bdc994013,Burrard Station @ Bay 6,53312,R5,bus
+26fb435f-a540-435d-b3c5-f7da161a450e,Waterfront Station @ Bay 1,58202,R5,bus
+8eaa9667-805e-4efe-bbef-41be2786138d,W Hastings St @ Granville St,51374,R5,bus
+2609dda7-e51a-4a08-b89f-fdf8c00a2af7,W Hastings St @ Abbott St,52712,R5,bus
+c2053ec6-45c4-468e-9a6c-aa8515493026,E Hastings St @ Main St,52713,R5,bus
+c0ec56d3-ec8c-4632-9291-560c81f9f6d5,E Hastings St @ Commercial Dr,52714,R5,bus
+c3fddf4b-fa0c-4a55-9a53-32cbd72361d4,E Hastings St @ Nanaimo St,50947,R5,bus
+2d90d174-6f0a-4999-a6cb-b6fcb8f08358,E Hastings St @ Renfrew St ,50951,R5,bus
+526a2b01-3a9e-4785-a8b0-344b1a34b9f3,Kootenay Loop @ Bay 5,50955,R5,bus
+c5a4cc7d-2259-45c0-a8fc-d384cc180307,Kootenay Loop @ Bay 8,60600,R5,bus
+74e69bba-34dd-4c46-8873-e43b7d3d079f,Boundary Rd @ Kitchener St,51743,R5,bus
+35c4bbb4-ba51-4462-8a01-a73131f2b39f,Hastings St @ Gilmore Ave,58428,R5,bus
+5f01f99d-e681-40bf-a1a9-b7ab5b94fec0,Hastings St @ Willingdon Ave,51381,R5,bus
+6e1b9ae4-c774-4d13-aa99-d7e332edebb1,Hastings St @ Hythe Ave,51846,R5,bus
+f43a3283-32b2-427c-b4eb-80fc95884fcc,Hastings St @ Holdom Ave ,51849,R5,bus
+eb963ee2-39a1-4217-9144-a059df4c264a,Hastings St @ Kensington Ave,51851,R5,bus
+fe117f6a-b04f-4c0b-9684-af07416d2fae,Hastings St @ Duthie Ave,51856,R5,bus
+7db0f1fb-3de8-4270-aac2-0c2ff1b93b96,SFU Transportation Centre @ Bay 2,52806,R5,bus
+12be68c4-78c2-4082-b2fb-dbd330a3eca2,SFU Transit Exchange @ Bay 2,53096,R5,bus
+,,,,
+f860d36a-1309-454e-a4e2-cce847a2561e,Lougheed Hwy @ Boundary Loop,52092,99,bus
+bec9b4f9-d36c-4f6c-bd5c-ebb8501d25a0,E Broadway @ Rupert St,50904,99,bus
+ff708248-26d4-4498-96ee-677f5af8025d,E Broadway @ Renfrew St,50907,99,bus
+51f1014a-227e-460a-a76f-6482f66bf2d9,E Broadway @ Penticton St,50909,99,bus
+281250b8-cca5-41bf-862d-7b007146af45,E Broadway @ Nanaimo St,50682,99,bus
+9f1b6266-5dcc-45f8-a0a9-e9274783307f,Commercial-Broadway Station @ Bay 5,50913,99,bus
+06d6ca0a-bea1-4964-ace1-29768271c6f0,E Broadway @ Clark Dr,50916,99,bus
+8101c54e-2bc6-416a-abe1-83456f50eac2,E Broadway @ Fraser St,58613,99,bus
+d0a7381d-12f1-4642-ad98-f6b225a0eca6,E Broadway @ Scotia St,50850,99,bus
+125767d8-78b1-4407-ab61-030071d8e5fe,E Broadway @ Quebec,60579,99,bus
+9b31c883-afc7-4f07-bc3e-24f95c870303,Broadway-City Hall Station @ Bay 4,58501,99,bus
+9b6e35c1-8cf3-4a68-8903-92fb159f4e55,W Broadway @ Willow St,50926,99,bus
+abc722aa-72d6-4c50-9a3d-bb7486d814e2,W Broadway @ Granville St,50540,99,bus
+841f99b7-dc90-4cab-9d95-f36474379722,W Broadway @ Arbutus St,61453,99,bus
+daa61b86-ebcb-47f1-aecb-909feb464ceb,W Broadway @ Macdonald St,52095,99,bus
+a485ad0d-05d2-4811-a1e1-41812f41676e,Alma St @ W 10 Ave,50357,99,bus
+e1e257b9-91ac-4ce4-a7bc-9ca6ffb95ae0,W Broadway @ Alma St,58037,99,bus
+cc942c72-fe10-4d38-9d49-435b3775d786,W 10 Ave @ Sasamat St,58023,99,bus
+0962a2e5-17aa-4831-9074-0a0cf4832544,University Blvd @ Blanca St,50601,99,bus
+27967760-2840-49c1-8ed0-7f23e8c2a870,University Blvd @ 5100 Block,50602,99,bus
+0e096fbd-d6f9-42c4-b843-ac7c4d9b6bab,University Blvd @ 5300 Blocki,50603,99,bus
+5be701a5-8732-48c4-9dd2-4dbf3c0c38fd,University Blvd @ Acadia Rd,50604,99,bus
+e6c4b68b-74c0-4e3f-8c05-a09e61f0b231,University Blvd @ Western Parkway,60219,99,bus
+3b5bb732-df4a-44ba-a4f2-3fbc8fce5bce,UBC Exchange @ Unloading Only,60358,99,bus

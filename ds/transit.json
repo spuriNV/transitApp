@@ -1,0 +1,418 @@
+[
+  {
+    "id": "9fd35c08-02df-44d5-970e-61334db4b8c9",
+    "stop_name": "VCC-CLARK STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "millenium",
+    "mode_type": "train"
+  },
+  {
+    "id": "60141597-eaee-4ba5-8b9d-635a1c53b140",
+    "stop_name": "COMMERCIAL-BROADWAY STATION PLATFORM 3",
+    "stop_id1": 50913,
+    "stop_id2": 52102,
+    "line_number": "millenium/expo/99",
+    "mode_type": "train/bus"
+  },
+  {
+    "id": "c1fe217a-4587-47ea-9e7f-70b5d1d0ad15",
+    "stop_name": "RENFREW STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "millenium",
+    "mode_type": "train"
+  },
+  {
+    "id": "c5ac6113-0659-4805-9f2f-3004e433a37c",
+    "stop_name": "RUPERT STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "millenium",
+    "mode_type": "train"
+  },
+  {
+    "id": "152550ab-7b77-478c-be56-549f9e45f099",
+    "stop_name": "WATERFRONT STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "canada/expo",
+    "mode_type": "train/bus"
+  },
+  {
+    "id": "64c80d12-3eca-4052-8ee4-2e17aee97ddc",
+    "stop_name": "VANCOUVER CITY CENTRE STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "canada",
+    "mode_type": "train"
+  },
+  {
+    "id": "4c58620a-ae87-4993-ac4b-4a0909556b63",
+    "stop_name": "YALETOWN-ROUNDHOUSE STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "canada",
+    "mode_type": "train"
+  },
+  {
+    "id": "0a583bc6-9bac-4617-92f8-0b644d5b1e27",
+    "stop_name": "OLYMPIC VILLAGE STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "canada",
+    "mode_type": "train"
+  },
+  {
+    "id": "71071db8-6329-4863-8ead-0fdb68dbfb2b",
+    "stop_name": "BROADWAY-CITY HALL STATION",
+    "stop_id1": 58501,
+    "stop_id2": 50875,
+    "line_number": "canada/99",
+    "mode_type": "train/bus"
+  },
+  {
+    "id": "4a5107c7-da17-46dd-b496-a872bae2ead5",
+    "stop_name": "KING EDWARD STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "canada",
+    "mode_type": "train"
+  },
+  {
+    "id": "500d782b-8ffb-491f-b4ff-73c65998ac68",
+    "stop_name": "OAKRIDGE-41ST AVENUE STATION",
+    "stop_id1": 61281,
+    "stop_id2": 60349,
+    "line_number": "canada/R4",
+    "mode_type": "train/bus"
+  },
+  {
+    "id": "26c0e3e1-5451-4908-bf19-53bac2d321fb",
+    "stop_name": "LANGARA-49TH AVENUE STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "canada",
+    "mode_type": "train"
+  },
+  {
+    "id": "936126d0-e60f-41f5-83c1-923771931c45",
+    "stop_name": "MARINE DRIVE STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "canada",
+    "mode_type": "train"
+  },
+  {
+    "id": "c1ea1ae9-5b5b-4996-89e7-b3691c212ec7",
+    "stop_name": "BURRARD STATION",
+    "stop_id1": 53312,
+    "stop_id2": 53312,
+    "line_number": "expo/R5",
+    "mode_type": "train/bus"
+  },
+  {
+    "id": "65eb0241-e113-41c1-b02e-86f50e549784",
+    "stop_name": "GRANVILLE STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "expo",
+    "mode_type": "train"
+  },
+  {
+    "id": "cda8710a-d193-4bb4-82f7-398f6f321bd6",
+    "stop_name": "STADIUM-CHINATOWN STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "expo",
+    "mode_type": "train"
+  },
+  {
+    "id": "8e780d31-f42e-4ca4-bef5-52cd790ecf9e",
+    "stop_name": "MAIN STREET-SCIENCE WORLD STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "expo",
+    "mode_type": "train"
+  },
+  {
+    "id": "1e01f16a-81a9-4131-923b-b4e80cd8716a",
+    "stop_name": "NANAIMO STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "expo",
+    "mode_type": "train"
+  },
+  {
+    "id": "febb8791-20e4-4c68-b70f-0df7f0dd938b",
+    "stop_name": "29TH AVENUE STATION",
+    "stop_id1": 0,
+    "stop_id2": 0,
+    "line_number": "expo",
+    "mode_type": "train"
+  },
+  {
+    "id": "fcd4e655-add4-4499-9067-d82426403de8",
+    "stop_name": "JOYCE-COLLINGWOOD STATION",
+    "stop_id1": 51787,
+    "stop_id2": 51722,
+    "line_number": "expo/R4",
+    "mode_type": "train/bus"
+  },
+  {
+    "id": "5e209451-6dd0-4eb3-b382-5045e22c36b5",
+    "stop_name": "UBC Exchange",
+    "stop_id1": 60162,
+    "stop_id2": 61935,
+    "line_number": "R4/99",
+    "mode_type": "bus"
+  },
+  {
+    "id": "d1898636-2177-4e2e-aaad-82bd7682e7e5",
+    "stop_name": "E Broadway @ Clark Dr",
+    "stop_id1": 50916,
+    "stop_id2": 58499,
+    "line_number": "99",
+    "mode_type": "bus"
+  },
+  {
+    "id": "d7baa980-2ebf-48c6-b33e-5d453474c9fe",
+    "stop_name": "E Broadway @ Fraser St",
+    "stop_id1": 58613,
+    "stop_id2": 58514,
+    "line_number": "99",
+    "mode_type": "bus"
+  },
+  {
+    "id": "4fcec59a-21b3-4f97-b4f5-f1ca55f53495",
+    "stop_name": "E Broadway @ Scotia/Kingsway St",
+    "stop_id1": 50850,
+    "stop_id2": 50880,
+    "line_number": "99",
+    "mode_type": "bus"
+  },
+  {
+    "id": "7333519a-5fd8-468e-b6a9-e1d77baec0c2",
+    "stop_name": "W Broadway @ Willow/Heather St",
+    "stop_id1": 50926,
+    "stop_id2": 52099,
+    "line_number": "99",
+    "mode_type": "bus"
+  },
+  {
+    "id": "7dd1e05c-c95d-4467-b35c-9a9a19e30a5b",
+    "stop_name": "W Broadway @ Granville St",
+    "stop_id1": 50540,
+    "stop_id2": 60494,
+    "line_number": "99",
+    "mode_type": "bus"
+  },
+  {
+    "id": "7ccc029b-589a-4266-a568-ab0fb922d98b",
+    "stop_name": "W Broadway @ Arbutus/Yew St",
+    "stop_id1": 61453,
+    "stop_id2": 61660,
+    "line_number": "99",
+    "mode_type": "bus"
+  },
+  {
+    "id": "ad912002-97d3-4c38-9bce-14dc20713588",
+    "stop_name": "W Broadway @ Macdonald St",
+    "stop_id1": 52095,
+    "stop_id2": 50319,
+    "line_number": "99",
+    "mode_type": "bus"
+  },
+  {
+    "id": "11a99c5f-92d2-4a89-9acb-d7d5c7aedcdc",
+    "stop_name": "Alma St @ W 10 Ave",
+    "stop_id1": 50357,
+    "stop_id2": 58037,
+    "line_number": "99",
+    "mode_type": "bus"
+  },
+  {
+    "id": "7248410e-f250-4ff6-aaec-2d91ee2d0a7b",
+    "stop_name": "W 10 Ave @ Sasamat St",
+    "stop_id1": 58023,
+    "stop_id2": 50276,
+    "line_number": "99",
+    "mode_type": "bus"
+  },
+  {
+    "id": "daa9d354-8564-4303-bb2c-e31e58ae4aa0",
+    "stop_name": "University Blvd @ Western Parkway/Allison Rd",
+    "stop_id1": 60219,
+    "stop_id2": 50268,
+    "line_number": "99",
+    "mode_type": "bus"
+  },
+  {
+    "id": "481f32cc-63d3-4c6b-9c74-74a353275173",
+    "stop_name": "Joyce St @ Kingsway ",
+    "stop_id1": 51178,
+    "stop_id2": 51636,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "4d66f0a8-d8d6-42d2-bd8f-8741eafab708",
+    "stop_name": "E 41 Ave @ Rupert St",
+    "stop_id1": 51181,
+    "stop_id2": 51128,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "57d27932-8c25-44c8-a2a7-3abcc5c7db18",
+    "stop_name": "E 41 Ave @ Clarendon St",
+    "stop_id1": 51067,
+    "stop_id2": 51124,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "4e8f4156-cfe4-459f-82df-a85e61d22194",
+    "stop_name": "E 41 Ave @ Victoria Dr",
+    "stop_id1": 50702,
+    "stop_id2": 51121,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "2f3d3a7f-0f27-4e91-aa89-c0cdae086afe",
+    "stop_name": "E 41 Ave @ Knight St",
+    "stop_id1": 50706,
+    "stop_id2": 50649,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "a3ff8c7a-8c41-44bb-8a8c-ed9996707cbf",
+    "stop_name": "E 41 Ave @ Fraser St",
+    "stop_id1": 50711,
+    "stop_id2": 61503,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "e17c78ca-9a53-491b-a8de-3ea765ac7455",
+    "stop_name": "E 41 Ave @ Main St",
+    "stop_id1": 50714,
+    "stop_id2": 50253,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "569dd16d-a35e-4cc5-b0e5-c7fd6b40e193",
+    "stop_name": "W 41 Ave @ Oak St",
+    "stop_id1": 50195,
+    "stop_id2": 50804,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "de467067-afc3-4c80-bcd7-0e4005b172f0",
+    "stop_name": "W 41 Ave @ Granville St",
+    "stop_id1": 50284,
+    "stop_id2": 50199,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "4054827a-7865-4366-9460-1f7284716fb0",
+    "stop_name": "W 41 Ave @ East Blvd",
+    "stop_id1": 60385,
+    "stop_id2": 60386,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "5f6f019e-12d0-416e-a8f9-da2ac2ff71d7",
+    "stop_name": "W 41 Ave @ Carnarvon St",
+    "stop_id1": 50294,
+    "stop_id2": 50377,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "2c9f3286-52aa-419e-9466-ba2df68a6c6c",
+    "stop_name": "Dunbar Loop @ Bay 7",
+    "stop_id1": 51893,
+    "stop_id2": 60393,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "6c42dda1-eafd-41e4-906f-ea35e99acf82",
+    "stop_name": "W 16 Ave @ Wesbrook Mall",
+    "stop_id1": 61042,
+    "stop_id2": 51882,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "d71893c8-0cdc-49c2-8f3a-24e4c84d8a6b",
+    "stop_name": "Wesbrook Mall @ Agronomy Rd",
+    "stop_id1": 60384,
+    "stop_id2": 60383,
+    "line_number": "R4",
+    "mode_type": "bus"
+  },
+  {
+    "id": "6b64b5ec-431c-4e4a-b92c-90f3c3c55393",
+    "stop_name": "Kootenay Loop @ Bay 5",
+    "stop_id1": 52717,
+    "stop_id2": 58143,
+    "line_number": "R5",
+    "mode_type": "bus"
+  },
+  {
+    "id": "31b69cbc-0692-49fd-bde4-21390c512187",
+    "stop_name": "E Hastings St @ Renfrew St ",
+    "stop_id1": 50959,
+    "stop_id2": 50951,
+    "line_number": "R5",
+    "mode_type": "bus"
+  },
+  {
+    "id": "e9c18a64-498d-48b3-a6d8-6f4824cdcd02",
+    "stop_name": "E Hastings St @ Nanaimo St",
+    "stop_id1": 50730,
+    "stop_id2": 50947,
+    "line_number": "R5",
+    "mode_type": "bus"
+  },
+  {
+    "id": "b378ffe5-c9d0-45b9-90a5-4ac65a22bbb6",
+    "stop_name": "E Hastings St @ Commercial Dr",
+    "stop_id1": 50499,
+    "stop_id2": 52714,
+    "line_number": "R5",
+    "mode_type": "bus"
+  },
+  {
+    "id": "35bff1ee-3129-49cc-aac6-ed52d62aede3",
+    "stop_name": "E Hastings St @ Main St",
+    "stop_id1": 53391,
+    "stop_id2": 52713,
+    "line_number": "R5",
+    "mode_type": "bus"
+  },
+  {
+    "id": "02a5e636-5475-419c-aede-8646fbf79b6f",
+    "stop_name": "W Hastings St @ Abbott St",
+    "stop_id1": 53392,
+    "stop_id2": 52712,
+    "line_number": "R5",
+    "mode_type": "bus"
+  },
+  {
+    "id": "b83ef1cb-a5a1-490e-8e21-b1d7e454c6f7",
+    "stop_name": "W Hastings St @ Granville St",
+    "stop_id1": 50978,
+    "stop_id2": 51374,
+    "line_number": "R5",
+    "mode_type": "bus"
+  }
+ ]
